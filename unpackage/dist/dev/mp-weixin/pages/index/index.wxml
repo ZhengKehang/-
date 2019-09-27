@@ -1,0 +1,1 @@
+<view class="index-box"><view class="tool-list"><view data-event-opts="{{[['tap',[['goto',['borrow']]]]]}}" class="tool-item" bindtap="__e">我的债务</view></view></view>
